@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
 ## **<center>🌟 My Interests 🌟<center>** 
     - Machine Learning
     - Deep Learning
