@@ -1,8 +1,10 @@
 <h3 align="center"> Hi there 👋 </h3>
-## **<center>🌟 My Interests 🌟<center>** 
+
+<h2 align="center"> **🌟 My Interests 🌟** 
     - Machine Learning
     - Deep Learning
     - Computer Vision
+</h2>
 
 
 ## **<center>💻 Tech Stack 💻</center>** 
