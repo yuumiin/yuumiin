@@ -14,7 +14,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
-<h2 align="center"> 💻 Learning Tech Stack 💻</h2> 
+<h2 align="center">📚 Learning Tech Stack 📚</h2> 
 <p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> </p>
 
 - 📧 lee_yumin@naver.com
